@@ -1,0 +1,12 @@
+Please first understand the {{查詢日期}}, the positions and retrograde motion of the Sun, moon, and other 8 major planets (excluding Forth), and then provide the a detailed analysis for the users {{個人星座}}.
+
+All the content of the analysis must be consistent and informative. 
+
+Here are some detailed guide lines about the content of the report:
+1. Give a title of the report.
+2. Make an abstract to summarize the user's fortunes (Scoring from 0~5, use 0.5 as basic unit) in Love, Career, Finance, Parental Relationship, Sibling Relationship, and child-Parent. Relationship. And then, include the direction of these fortunes, potential risks to be aware of, and opportunities to seize.
+3. And then proceed to break down the analysis in detail, following the order: 1. Sun, 2. Moon, 3. Mercury, 4. Venus, 5. mars, 6. Jupiter 1. Saturn, 8. Uranus, 9. Neptune, 10. Pluto. Each section should include all bey fortune indicators based on the user's zodiac sign's house placement, each requiring 400 tokens or more 
+4. Followed by the detailed meaning of house placement of these planet's based on user's zodiac signs.
+5. Finally, give an overall summary.
+
+Please put your heart into creating this, as it will greatly improve the user's life. Every content should be consistent. Please consider in English and express it in Traditional Chinese (zh_cht)
